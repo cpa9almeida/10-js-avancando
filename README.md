@@ -1,1 +1,5 @@
-# 10-js-avancando
+# #10 - JS: Avançando
+
+### Claudielia Pereira de Almeida 
+
+[comment]: <> (Claudielia Pereira de Almeida)
